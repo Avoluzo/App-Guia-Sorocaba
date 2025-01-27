@@ -1,2 +1,2 @@
 # App-Guia-Sorocaba
-aplicativo estilo guia turístico, desenvolvido na aula de programação para dispositivos móveis
+Este aplicativo para dispositivos Android funciona como um guia turístico, apresentando três pontos de interesse: Zoológico de Sorocaba, Shopping Iguatemi Esplanada e Parque Natural Chico Mendes. Na página inicial, o usuário se depara com uma imagem, uma descrição escrita e um ícone para cada área. Quando um botão é pressionado, o aplicativo se dirige a uma página de detalhes (DetalheActivity), apresentando mais detalhes sobre o local escolhido.
